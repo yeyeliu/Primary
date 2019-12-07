@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Pages
 
-# 个人信息
+# Self-introduction
 <table border="0">
   <tr>
     <td width="75%">
@@ -11,22 +11,17 @@
       <p><b>地址：宇宙中心×××</b></p>
     </td>
     <td width="25%">
-      ![touxiang](/touxiang.jpg)
-     // <img src="/touxiang.jpg" width="100%">      % 插入证件照代码
+      <img src="/touxiang.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
 
-## Header 2
+## Meaning
+To find something interesting.
+
 ### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
