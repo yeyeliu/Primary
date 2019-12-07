@@ -1,6 +1,23 @@
 ## Welcome to My GitHub Pages
 
-# Header 1
+# 个人信息
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>小花</h1>
+      <p><b>硕士研究生</b></p>
+      <p><b>宇宙大学世界学院</b></p>
+      <p><b>邮箱：yeye.liu@foxmai.com</b></p>
+      <p><b>地址：宇宙中心×××</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
+————————————————
+版权声明：本文为CSDN博主「zxhohai」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/hohaizx/article/details/85066248
 ## Header 2
 ### Header 3
 
@@ -15,12 +32,3 @@
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yeyeliu/Primary/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
