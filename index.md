@@ -8,7 +8,7 @@
       <p><b>硕士研究生</b></p>
       <p><b>宇宙大学世界学院</b></p>
       <p><b>邮箱：yeye.liu@foxmai.com</b></p>
-      <p><b>地址：宇宙中心×××</b></p>
+      <p><b>地址：宇宙中心</b></p>
     </td>
     <td width="25%">
       <img src="/touxiang.jpg" width="100%">      % 插入证件照代码
