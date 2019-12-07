@@ -19,10 +19,3 @@
 ## Meaning
 To find something interesting.
 
-### Header 3
-
-
-
-[Link](url) and ![Image](src)
-```
-
